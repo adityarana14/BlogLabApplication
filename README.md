@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or feedback, please contact [Aditya Rana](mailto:adityarana@example.com).
+For questions or feedback, please contact [Aditya Rana](mailto:adityarana.us14@gmail.com).
 
